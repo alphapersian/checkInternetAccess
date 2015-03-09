@@ -2,9 +2,6 @@
 import android.content.Context;
 import android.net.ConnectivityManager;
 
-/**
- * Created by alphapersian on 03/09/2015.
- */
 public class CheckInternet {
 
     Context mContext;
